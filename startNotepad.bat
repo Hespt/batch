@@ -1,2 +1,3 @@
 @echo off
+title Starting Notepad...
 start Notepad C:\Windows\notepadRan.txt 
