@@ -1,6 +1,6 @@
 @echo off
 Title Matrix Code
 color 02
-:zoto
+:main
 echo %random%%random%%random%%random%%random%%random%%random%%random%
-goto zoto
+goto main
